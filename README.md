@@ -2,7 +2,7 @@
 The minimal C++ requirements for drake( a robotic toolbox by MIT and Toyota Research Institute).
 
 ## 1.Installation
- Here we installn via APT (Ubuntu). Please following the below instructions. \
+ Here we install via APT (Ubuntu). Please follow the below instructions. \
  https://drake.mit.edu/apt.html#stable-releases
  
 ## 2.Run
